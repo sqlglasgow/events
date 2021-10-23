@@ -17,8 +17,8 @@ Virtual Events
 
 ## 2021's Events
 
-- Thursday 14th Jan - TBC
-- Thursday 11th Feb - TBC
-- Thursday 11th Mar - TBC
-- Thursday 8th Apr - TBC
-- Thursday 7th May - TBC
+- [Thursday 14th Jan - Git Basics and SQL vs NoSQL](https://www.eventbrite.co.uk/e/glasgow-data-ug-git-basics-and-sql-vs-nosql-tickets-135572429787)
+- [Thursday 11th Mar - An evening of Databricks](https://www.eventbrite.co.uk/e/glasgow-data-ug-march-meetup-an-evening-of-databricks-tickets-142600486895)
+- [Thursday 8th Apr - An intro to PowerApps](https://www.eventbrite.co.uk/e/glasgow-data-ug-an-intro-to-powerapps-tickets-147735836865)
+- [Thursday 8th July](https://www.eventbrite.co.uk/e/glasgow-data-user-groups-july-meetup-tickets-161960601519) 
+- [Thursday 5th Aug - Adventures in ADF and Social Media](https://www.eventbrite.co.uk/e/adventures-in-adf-and-social-media-tickets-165719534589)
